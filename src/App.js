@@ -4,7 +4,7 @@ import MyGrid from './components/MyGrid';
 function App() {
   return (
     <>
-    <MyGrid/>
+    <MyGrid />
     </>
   );
 }
